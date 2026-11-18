@@ -1,0 +1,1 @@
+Real-time weather application with PyQt5 GUI. Integrates OpenWeatherMap API for current conditions, forecasts, and location search. Features temperature unit toggle, humidity, wind speed, pressure, and responsive desktop interface.
